@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyRlty</string>
+    <string name="facebook_app_id">688494488907047</string>
+    <string name="fb_login_protocol_scheme">fb688494488907047</string>
+    <string name="facebook_client_token">f750c52a69c68f60895db7f552206a1c</string>
+</resources>

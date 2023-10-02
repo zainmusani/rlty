@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>557033433990-dlh2ujvlfmepi87manl8021amf7oa07a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.557033433990-dlh2ujvlfmepi87manl8021amf7oa07a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBt_73dzsw__dk7qPUCV-KH0L9Twa35AuY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>557033433990</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.myrlty</string>
+	<key>PROJECT_ID</key>
+	<string>realtor-12</string>
+	<key>STORAGE_BUCKET</key>
+	<string>realtor-12.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:557033433990:ios:be8688b019aa64633eda07</string>
+</dict>
+</plist>
